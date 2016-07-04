@@ -1,0 +1,15 @@
+24.3 数据列表标准SDTM、SDTM aCRF标注病例调查表和数据映射Data Mapping
+
+数据列表标准（Study Data Tabulation Model，SDTM），是以标准格式展现研究数据。
+
+SDTM aCRF标注病例调查表（annotated Case Report Form），在CRF上，以SDTM的变量名进行标注，方便评审员快速查找对应的数据在CRF上的位置，方便其理解临床试验的数据。
+
+数据映射（Data Mapping），是将原始数据映射值SDTM数据集，或者将SDTM数据集映射至ADaM分析数据集。
+
+
+
+
+
+
+
+
