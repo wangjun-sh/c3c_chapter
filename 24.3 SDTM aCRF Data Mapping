@@ -1,6 +1,7 @@
 24.3 数据列表标准SDTM、SDTM aCRF标注病例调查表和数据映射Data Mapping
 
-数据列表标准（Study Data Tabulation Model，SDTM），是以标准格式展现研究数据。
+数据列表标准（Study Data Tabulation Model，SDTM），是以标准格式展现研究数据。SDTM 将数据按照其用途，分为试验设计（Trial Design）、特殊用途（Special Purpose）、事件类（Events）、干预类（Interventions）和发现类（Findings）。在每一类数据集中，又对变量（Variable）进一步分类到标识符（Identifier）、主题（Topic）、修饰词（Qualifier）、时间（Timing）和规则（Rule）。
+
 
 SDTM aCRF标注病例调查表（annotated Case Report Form），在CRF上，以SDTM的变量名进行标注，方便评审员快速查找对应的数据在CRF上的位置，方便其理解临床试验的数据。
 
